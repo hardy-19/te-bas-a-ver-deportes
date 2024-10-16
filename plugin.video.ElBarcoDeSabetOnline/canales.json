@@ -1,0 +1,367 @@
+[
+    {
+        "nombre": "LaLiga TV BAR",
+        "tvg_id": "LaLiga TV BAR",
+        "logo": "https://i.ibb.co/pLPmnGg/liga-TVbar.png"
+    },
+    {
+        "nombre": "M. LaLiga UHD",
+        "tvg_id": "M+ LaLiga TV UHD",
+        "logo": "https://i.ibb.co/yfV1Q8n/liga.png"
+    },
+    {
+        "nombre": "M. LaLiga UHD (Sólo Android)",
+        "tvg_id": "M+ LaLiga TV UHD",
+        "logo": "https://i.ibb.co/yfV1Q8n/liga.png"
+    },
+    {
+        "nombre": "M. LaLiga 1080 MultiAudio",
+        "tvg_id": "M+ LaLiga TV HD",
+        "logo": "https://i.ibb.co/yfV1Q8n/liga.png"
+    },
+	    {
+        "nombre": "M. LaLiga HD",
+        "tvg_id": "M+ LaLiga TV HD",
+        "logo": "https://i.ibb.co/yfV1Q8n/liga.png"
+    },
+    {
+        "nombre": "M. LaLiga 1080P",
+        "tvg_id": "M+ LaLiga TV HD",
+        "logo": "https://i.ibb.co/yfV1Q8n/liga.png"
+    },
+    {
+        "nombre": "M. LaLiga 720",
+        "tvg_id": "M+ LaLiga TV HD",
+        "logo": "https://i.ibb.co/yfV1Q8n/liga.png"
+    },
+    {
+        "nombre": "M. LaLiga 2 1080 Multiaudio",
+        "tvg_id": "M+ LaLiga TV 2 HD",
+        "logo": "https://i.ibb.co/Tc97zSb/liga2.png"
+    },
+    {
+        "nombre": "M. LaLiga 2 1080",
+        "tvg_id": "M+ LaLiga TV 2 HD",
+        "logo": "https://i.ibb.co/Tc97zSb/liga2.png"
+    },
+    {
+        "nombre": "M. LaLiga 2 720",
+        "tvg_id": "M+ LaLiga TV 2 HD",
+        "logo": "https://i.ibb.co/Tc97zSb/liga2.png"
+    },
+    {
+        "nombre": "M. LaLiga 3 1080",
+        "tvg_id": "M+ LaLiga TV 3 HD",
+        "logo": "https://i.ibb.co/BZF0xG9/liga3.png"
+    },
+    {
+        "nombre": "M. LaLiga 4 1080",
+        "tvg_id": "M+ LaLiga TV 4",
+        "logo": "https://i.ibb.co/dGWY2Fp/liga4.png"
+    },
+    {
+        "nombre": "M. LaLiga 5 1080",
+        "tvg_id": "M+ LaLiga TV 5",
+        "logo": "https://i.ibb.co/XC2XKKx/liga5.png"
+    },
+    {
+        "nombre": "M. LaLiga 6 1080",
+        "tvg_id": "M+ LaLiga TV 6",
+        "logo": "https://i.ibb.co/gRnQN3N/liga6.png"
+    },
+    {
+        "nombre": "DAZN LaLiga 1080 MultiAudio",
+        "tvg_id": "DAZN LaLiga HD",
+        "logo": "https://i.ibb.co/wSsZcSP/DaznLiga.png"
+    },
+    {
+        "nombre": "DAZN LaLiga 720",
+        "tvg_id": "DAZN LaLiga HD",
+        "logo": "https://i.ibb.co/wSsZcSP/DaznLiga.png"
+    },
+    {
+        "nombre": "DAZN LaLiga 2 1080 MultiAudio",
+        "tvg_id": "DAZN LaLiga 2 HD",
+        "logo": "https://i.ibb.co/SyvJQkp/Daznliga2.png"
+    },
+    {
+        "nombre": "DAZN LaLiga 2 720 MultiAudio",
+        "tvg_id": "DAZN LaLiga 2 HD",
+        "logo": "https://i.ibb.co/SyvJQkp/Daznliga2.png"
+    },
+    {
+        "nombre": "LaLiga Hypermotion 1080",
+        "tvg_id": "LaLiga TV Hypermotion HD",
+        "logo": "https://i.ibb.co/CBdGc9f/hypermotion1.png"
+    },
+    {
+        "nombre": "LaLiga Hypermotion 720",
+        "tvg_id": "LaLiga TV Hypermotion HD",
+        "logo": "https://i.ibb.co/CBdGc9f/hypermotion1.png"
+    },
+    {
+        "nombre": "LaLiga Hypermotion 2 1080",
+        "tvg_id": "LaLiga TV Hypermotion 2",
+        "logo": "https://i.ibb.co/8K0VrQV/hypermotion2.png"
+    },
+    {
+        "nombre": "LaLiga Hypermotion 2 720",
+        "tvg_id": "LaLiga TV Hypermotion 2",
+        "logo": "https://i.ibb.co/8K0VrQV/hypermotion2.png"
+    },
+    {
+        "nombre": "LaLiga Hypermotion 3 1080",
+        "tvg_id": "LaLiga TV Hypermotion 3",
+        "logo": "https://i.ibb.co/826y2Yv/Hypermotion3.png"
+    },
+	{
+        "nombre": "LaLiga Smartbank 1080 MultiAudio",
+        "tvg_id": "LaLiga TV Hypermotion HD",
+        "logo": "https://i.ibb.co/CBdGc9f/hypermotion1.png"
+    },
+		{
+        "nombre": "LaLiga Smartbank",
+        "tvg_id": "LaLiga TV Hypermotion HD",
+        "logo": "https://i.ibb.co/CBdGc9f/hypermotion1.png"
+    },
+    {
+        "nombre": "LaLiga Smartbank 720",
+        "tvg_id": "LaLiga TV Hypermotion HD",
+        "logo": "https://i.ibb.co/CBdGc9f/hypermotion1.png"
+    },
+    {
+        "nombre": "LaLiga Smartbank 2 1080",
+        "tvg_id": "LaLiga TV Hypermotion 2",
+        "logo": "https://i.ibb.co/8K0VrQV/hypermotion2.png"
+    },
+    {
+        "nombre": "LaLiga Smartbank 2 720",
+        "tvg_id": "LaLiga TV Hypermotion 2",
+        "logo": "https://i.ibb.co/8K0VrQV/hypermotion2.png"
+    },
+    {
+        "nombre": "LaLiga Smartbank 3 1080",
+        "tvg_id": "LaLiga TV Hypermotion 3",
+        "logo": "https://i.ibb.co/826y2Yv/Hypermotion3.png"
+    },
+    {
+        "nombre": "M+ Vamos 1080",
+        "tvg_id": "M+ Vamos HD",
+        "logo": "https://i.ibb.co/gWMRpFB/vamos.png"
+    },
+	    {
+        "nombre": "M+ Vamos 720",
+        "tvg_id": "M+ Vamos HD",
+        "logo": "https://i.ibb.co/gWMRpFB/vamos.png"
+    },
+	    {
+        "nombre": "#Vamos 1080",
+        "tvg_id": "M+ Vamos HD",
+        "logo": "https://i.ibb.co/gWMRpFB/vamos.png"
+    },
+	    {
+        "nombre": "#Vamos 720",
+        "tvg_id": "M+ Vamos HD",
+        "logo": "https://i.ibb.co/gWMRpFB/vamos.png"
+    },
+    {
+        "nombre": "#Ellas 1080",
+        "tvg_id": "M+ Ellas Vamos HD",
+        "logo": "https://i.ibb.co/rx9hnHz/ellas.png"
+    },
+	    {
+        "nombre": "M+ Ellas Vamos HD",
+        "tvg_id": "M+ Ellas Vamos HD",
+        "logo": "https://i.ibb.co/rx9hnHz/ellas.png"
+    },
+    {
+        "nombre": "M. Deportes 1080",
+        "tvg_id": "M+ Deportes HD",
+        "logo": "https://i.ibb.co/CV4CLjz/deportes.png"
+    },
+    {
+        "nombre": "M. Deportes 720",
+        "tvg_id": "M+ Deportes HD",
+        "logo": "https://i.ibb.co/CV4CLjz/deportes.png"
+    },
+    {
+        "nombre": "M. Deportes 2 1080",
+        "tvg_id": "M+ Deportes 2 HD",
+        "logo": "https://i.ibb.co/q95fBKV/deportes2.png"
+    },
+    {
+        "nombre": "M. Deportes 3 1080",
+        "tvg_id": "M+ Deportes 3",
+        "logo": "https://i.ibb.co/jDg5qWD/deportes3.png"
+    },
+    {
+        "nombre": "M. Deportes 4 1080",
+        "tvg_id": "M+ Deportes 4",
+        "logo": "https://i.ibb.co/WDN9NN9/deportes4.png"
+    },
+    {
+        "nombre": "M. Deportes 5 1080",
+        "tvg_id": "M+ Deportes 5",
+        "logo": "https://i.ibb.co/pvZ2tSB/deportes5.png"
+    },
+    {
+        "nombre": "M.L. Campeones 1080 Multiaudio",
+        "tvg_id": "M+ Liga de Campeones HD",
+        "logo": "https://i.ibb.co/mTJyHFL/camp01.png"
+    },
+	    {
+        "nombre": "M.L. Campeones HD",
+        "tvg_id": "M+ Liga de Campeones HD",
+        "logo": "https://i.ibb.co/mTJyHFL/camp01.png"
+    },
+    {
+        "nombre": "M.L. Campeones 1080",
+        "tvg_id": "M+ Liga de Campeones HD",
+        "logo": "https://i.ibb.co/mTJyHFL/camp01.png"
+    },	
+    {
+        "nombre": "M.L. Campeones 720",
+        "tvg_id": "M+ Liga de Campeones HD",
+        "logo": "https://i.ibb.co/mTJyHFL/camp01.png"
+    },
+    {
+        "nombre": "M.L. Campeones 2 1080",
+        "tvg_id": "M+ Liga de Campeones 2 HD",
+        "logo": "https://i.ibb.co/187Ky7T/camp02.png"
+    },
+    {
+        "nombre": "M.L. Campeones 2 720",
+        "tvg_id": "M+ Liga de Campeones 2 HD",
+        "logo": "https://i.ibb.co/187Ky7T/camp02.png"
+    },
+	    {
+        "nombre": "M.L. Campeones HD",
+        "tvg_id": "M+ Liga de Campeones 2 HD",
+        "logo": "https://i.ibb.co/187Ky7T/camp02.png"
+    },
+    {
+        "nombre": "M.L. Campeones 3 1080",
+        "tvg_id": "M+ Liga de Campeones 3 HD",
+        "logo": "https://i.ibb.co/pJ5dZBG/camp03.png"
+    },
+    {
+        "nombre": "M.L. Campeones 3 720",
+        "tvg_id": "M+ Liga de Campeones 3 HD",
+        "logo": "https://i.ibb.co/pJ5dZBG/camp03.png"
+    },
+	    {
+        "nombre": "M.L. Campeones 3 HD",
+        "tvg_id": "M+ Liga de Campeones 3 HD",
+        "logo": "https://i.ibb.co/pJ5dZBG/camp03.png"
+    },
+    {
+        "nombre": "DAZN 1 1080",
+        "tvg_id": "DAZN 1 HD",
+        "logo": "https://i.ibb.co/FVzKq1y/dazn1.png"
+    },
+    {
+        "nombre": "DAZN 1 720",
+        "tvg_id": "DAZN 1 HD",
+        "logo": "https://i.ibb.co/FVzKq1y/dazn1.png"
+    },
+    {
+        "nombre": "DAZN 2 1080",
+        "tvg_id": "DAZN 2 HD",
+        "logo": "https://i.ibb.co/Kz0GXSX/dazn2.png"
+    },
+    {
+        "nombre": "DAZN 2 720",
+        "tvg_id": "DAZN 2 HD",
+        "logo": "https://i.ibb.co/Kz0GXSX/dazn2.png"
+    },
+    {
+        "nombre": "DAZN 3 1080",
+        "tvg_id": "DAZN 3 HD",
+        "logo": "https://i.ibb.co/2vkThM3/dazn3.png"
+    },
+    {
+        "nombre": "DAZN 4 1080",
+        "tvg_id": "DAZN 4 HD",
+        "logo": "https://i.ibb.co/R4LBVWP/dazn4.png"
+    },
+    {
+        "nombre": "DAZN F1 1080",
+        "tvg_id": "DAZN F1 HD",
+        "logo": "https://i.ibb.co/2Ndmtbp/f1.png"
+    },
+	    {
+        "nombre": "DAZN F1 1080 (Fórmula 1)",
+        "tvg_id": "DAZN F1 HD",
+        "logo": "https://i.ibb.co/2Ndmtbp/f1.png"
+    },
+		    {
+        "nombre": "DAZN F1 720 (Fórmula 1)",
+        "tvg_id": "DAZN F1 HD",
+        "logo": "https://i.ibb.co/2Ndmtbp/f1.png"
+    },
+    {
+        "nombre": "DAZN F1 Multicámara",
+        "tvg_id": "DAZN F1 HD",
+        "logo": "https://i.ibb.co/2Ndmtbp/f1.png"
+    },
+    {
+        "nombre": "EuroSport 4K",
+        "tvg_id": "EUROSPORT 4K",
+        "logo": "https://i.ibb.co/m9zPrNc/Euro4k.png"
+    },
+    {
+        "nombre": "EuroSport 1 1080",
+        "tvg_id": "EUROSPORT 1 HD",
+        "logo": "https://i.ibb.co/r2Yd7xD/euro1.png"
+    },
+    {
+        "nombre": "EuroSport 2 1080",
+        "tvg_id": "EUROSPORT 2",
+        "logo": "https://i.ibb.co/M6h4Qyd/euro2.png"
+    },
+	    {
+        "nombre": "EuroSport 1 HD",
+        "tvg_id": "EUROSPORT 1 HD",
+        "logo": "https://i.ibb.co/r2Yd7xD/euro1.png"
+    },
+    {
+        "nombre": "EuroSport 2 HD",
+        "tvg_id": "EUROSPORT 2",
+        "logo": "https://i.ibb.co/M6h4Qyd/euro2.png"
+    },
+    {
+        "nombre": "M+ Plus+",
+        "tvg_id": "Movistar Plus+ HD",
+        "logo": "https://i.ibb.co/dMXrBBc/plus.png"
+    },
+    {
+        "nombre": "M. Golf 1080",
+        "tvg_id": "M+ Golf HD",
+        "logo": "https://i.ibb.co/8bSvSX3/golf.png"
+    },
+    {
+        "nombre": "M. Golf 2 1080",
+        "tvg_id": "M+ Golf 2 HD",
+        "logo": "https://i.ibb.co/n1KGvn6/Golf2.png"
+    },
+    {
+        "nombre": "Copa 1080",
+        "tvg_id": "M+ LaLiga TV 3 HD",
+        "logo": "https://i.ibb.co/FwxbWnT/coparey.png"
+    },
+    {
+        "nombre": "Copa 1080 plus",
+        "tvg_id": "M+ LaLiga TV 3 HD",
+        "logo": "https://i.ibb.co/FwxbWnT/coparey.png"
+    },
+    {
+        "nombre": "Copa 1080 Multiaudio",
+        "tvg_id": "M+ LaLiga TV 3 HD",
+        "logo": "https://i.ibb.co/FwxbWnT/coparey.png"
+    },
+    {
+        "nombre": "Copa 720",
+        "tvg_id": "M+ LaLiga TV 3 HD",
+        "logo": "https://i.ibb.co/FwxbWnT/coparey.png"
+    }
+]

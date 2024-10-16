@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.ElBarcoDeSabetOnline" version="0.2.4" name="El Barco de Sabet Online" provider-name="Sabet">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.beautifulsoup4" version="4.9.3+matrix.1"/>
+        <import addon="script.module.requests" version="2.25.1+matrix.1"/>
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="es">Addon para reproducir enlaces Acestream desde la web.</summary>
+        <description lang="es">Este addon permite reproducir enlaces Acestream desde ElBarco.</description>
+        <platform>all</platform>
+        <version>1.0.0</version>
+        <provider-name>Sabet</provider-name>
+        <assets>
+            <icon>icon.jpg</icon>
+        </assets>
+    </extension>
+</addon>
